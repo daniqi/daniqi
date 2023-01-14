@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniqi an app (swift) developer working at the NLR.
 - 👀 I’m interested in web/app development.
-- 🌱 I’m currently learning webpack.
+- 🌱 I’m currently learning vue3.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me sikkema.work@gmail.com
 
