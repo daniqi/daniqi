@@ -2,4 +2,4 @@
 - 👀 I’m interested in web/app development.
 - 🌱 I’m currently learning vue3.
 - 💞️ I’m looking to collaborate on interesting projects.
-- 📫 How to reach me sikkema.work@gmail.com
+- 📫 How to reach me danick.sikkema@nlr.nl
